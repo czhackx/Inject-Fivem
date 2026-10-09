@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\project\\Inject Fivem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|e:\\project\\inject fivem\\inject fivem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|solutionrelative:inject fivem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|E:\\project\\Inject Fivem\\inject fivem\\lua\\bub3.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|solutionrelative:inject fivem\\lua\\bub3.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|E:\\project\\Inject Fivem\\inject fivem\\lua\\px6.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|solutionrelative:inject fivem\\lua\\px6.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|E:\\project\\Inject Fivem\\inject fivem\\lua\\px5.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|solutionrelative:inject fivem\\lua\\px5.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|E:\\project\\Inject Fivem\\inject fivem\\lua\\px4.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|solutionrelative:inject fivem\\lua\\px4.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|E:\\project\\Inject Fivem\\inject fivem\\lua\\px1.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|solutionrelative:inject fivem\\lua\\px1.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Inject Fivem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|E:\\project\\Inject Fivem\\inject fivem\\lua\\project1.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|solutionrelative:inject fivem\\lua\\project1.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|E:\\project\\Inject Fivem\\inject fivem\\lua\\nigga-dumper.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|solutionrelative:inject fivem\\lua\\nigga-dumper.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|E:\\project\\Inject Fivem\\inject fivem\\lua\\configcheck.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|solutionrelative:inject fivem\\lua\\configcheck.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|E:\\project\\Inject Fivem\\inject fivem\\lua\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|solutionrelative:inject fivem\\lua\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|E:\\project\\Inject Fivem\\inject fivem\\lua\\fam3.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|solutionrelative:inject fivem\\lua\\fam3.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|E:\\project\\Inject Fivem\\inject fivem\\lua\\fam2.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|solutionrelative:inject fivem\\lua\\fam2.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|E:\\project\\Inject Fivem\\inject fivem\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{20F0356C-9F20-4E85-8F6D-FE3ED0E6C1F8}|Inject Fivem\\Inject Fivem.csproj|solutionrelative:inject fivem\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\project\\Inject Fivem\\Inject Fivem\\lua\\main.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inject Fivem\\lua\\main.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\Program.cs",
+              "RelativeDocumentMoniker": "Inject Fivem\\Program.cs",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\Program.cs",
+              "RelativeToolTip": "Inject Fivem\\Program.cs",
+              "ViewState": "AgIAAFEBAAAAAAAAAAAswGIBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T02:54:21.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "main.lua",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\main.lua",
+              "RelativeDocumentMoniker": "Inject Fivem\\lua\\main.lua",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\main.lua",
+              "RelativeToolTip": "Inject Fivem\\lua\\main.lua",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-18T02:54:21.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "px6.lua",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\px6.lua",
+              "RelativeDocumentMoniker": "Inject Fivem\\lua\\px6.lua",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\px6.lua",
+              "RelativeToolTip": "Inject Fivem\\lua\\px6.lua",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-18T02:54:21.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "px5.lua",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\px5.lua",
+              "RelativeDocumentMoniker": "Inject Fivem\\lua\\px5.lua",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\px5.lua",
+              "RelativeToolTip": "Inject Fivem\\lua\\px5.lua",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-18T02:54:21.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "px4.lua",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\px4.lua",
+              "RelativeDocumentMoniker": "Inject Fivem\\lua\\px4.lua",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\px4.lua",
+              "RelativeToolTip": "Inject Fivem\\lua\\px4.lua",
+              "ViewState": "AgIAACABAAAAAAAAAAArwDsBAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-18T02:54:21.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "px1.lua",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\px1.lua",
+              "RelativeDocumentMoniker": "Inject Fivem\\lua\\px1.lua",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\px1.lua",
+              "RelativeToolTip": "Inject Fivem\\lua\\px1.lua",
+              "ViewState": "AgIAABIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-18T02:54:21.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project1.exe",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\Project1.exe",
+              "RelativeDocumentMoniker": "Inject Fivem\\lua\\Project1.exe",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\Project1.exe",
+              "RelativeToolTip": "Inject Fivem\\lua\\Project1.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2026-08-18T02:54:21.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nigga-Dumper.dll",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\Nigga-Dumper.dll",
+              "RelativeDocumentMoniker": "Inject Fivem\\lua\\Nigga-Dumper.dll",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\Nigga-Dumper.dll",
+              "RelativeToolTip": "Inject Fivem\\lua\\Nigga-Dumper.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-08-18T02:54:21.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "configcheck.ini",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\configcheck.ini",
+              "RelativeDocumentMoniker": "Inject Fivem\\lua\\configcheck.ini",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\configcheck.ini",
+              "RelativeToolTip": "Inject Fivem\\lua\\configcheck.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-08-18T02:54:21.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "config.ini",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\config.ini",
+              "RelativeDocumentMoniker": "Inject Fivem\\lua\\config.ini",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\config.ini",
+              "RelativeToolTip": "Inject Fivem\\lua\\config.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-08-18T02:54:21.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inject Fivem",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\Inject Fivem.csproj",
+              "RelativeDocumentMoniker": "Inject Fivem\\Inject Fivem.csproj",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\Inject Fivem.csproj",
+              "RelativeToolTip": "Inject Fivem\\Inject Fivem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-18T02:54:21.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bub3.lua",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\bub3.lua",
+              "RelativeDocumentMoniker": "Inject Fivem\\lua\\bub3.lua",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\bub3.lua",
+              "RelativeToolTip": "Inject Fivem\\lua\\bub3.lua",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-18T02:54:21.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fam3.lua",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\fam3.lua",
+              "RelativeDocumentMoniker": "Inject Fivem\\lua\\fam3.lua",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\fam3.lua",
+              "RelativeToolTip": "Inject Fivem\\lua\\fam3.lua",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-18T02:54:21.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fam2.lua",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\fam2.lua",
+              "RelativeDocumentMoniker": "Inject Fivem\\lua\\fam2.lua",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\lua\\fam2.lua",
+              "RelativeToolTip": "Inject Fivem\\lua\\fam2.lua",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-18T02:54:21.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.manifest",
+              "DocumentMoniker": "E:\\project\\Inject Fivem\\Inject Fivem\\app.manifest",
+              "RelativeDocumentMoniker": "Inject Fivem\\app.manifest",
+              "ToolTip": "E:\\project\\Inject Fivem\\Inject Fivem\\app.manifest",
+              "RelativeToolTip": "Inject Fivem\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2026-08-18T02:54:21.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
